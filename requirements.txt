@@ -1,1 +1,2 @@
 # Odoo.sh demo - demo-kapalua
+ShopifyAPI==12.7.0
